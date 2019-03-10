@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/build-types/debug/jniLibs"/></dataSet></merger>

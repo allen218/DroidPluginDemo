@@ -1,0 +1,1482 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:3:11-43
+	android:versionName
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml
+		INJECTED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml
+		INJECTED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:gridlayout-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:8:9-34
+application
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support:gridlayout-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:157:5-966:19
+	android:label
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:11:9-64
+activity#com.example.TestPlugin.MyActivity
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:16:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:23:27-74
+activity#com.example.TestPlugin.MainActivity
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:26:9-36:20
+	android:enabled
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:31:13-36
+	android:screenOrientation
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:29:13-33
+	android:configChanges
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:27:13-41
+activity#com.example.TestPlugin.SccondActivity
+ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:37:9-52
+	android:name
+		ADDED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:37:19-49
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:12:22-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_WIMAX_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:15:22-74
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:18:22-71
+uses-permission#android.permission.BODY_SENSORS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:21:22-66
+uses-permission#android.permission.CAMERA
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:22:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:24:5-86
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:24:22-83
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:25:22-73
+uses-permission#android.permission.CHANGE_WIMAX_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:26:22-74
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:27:22-71
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:28:22-72
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:29:5-88
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:29:22-85
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:31:5-69
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:31:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:32:22-68
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:33:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:34:22-65
+uses-permission#android.permission.INTERNET
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:35:22-64
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:36:5-84
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:36:22-81
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:37:22-71
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:38:22-77
+uses-permission#android.permission.NFC
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:39:5-62
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:39:22-59
+uses-permission#android.permission.PERSISTENT_ACTIVITY
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:40:5-78
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:40:22-75
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:41:22-78
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:42:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:42:22-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:43:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:43:22-69
+uses-permission#android.permission.READ_CELL_BROADCASTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:44:5-79
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:44:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:45:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:45:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:46:5-80
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:46:22-77
+uses-permission#android.permission.READ_INSTALL_SESSIONS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:47:5-80
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:47:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:48:22-72
+uses-permission#android.permission.READ_PROFILE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:49:5-71
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:49:22-68
+uses-permission#android.permission.READ_SMS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:50:5-67
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:50:22-64
+uses-permission#android.permission.READ_SOCIAL_STREAM
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:51:5-77
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:51:22-74
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:52:5-77
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:52:22-74
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:53:5-74
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:53:22-71
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:54:5-79
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:54:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:55:5-81
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:55:22-78
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:56:5-70
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:56:22-67
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:57:5-70
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:57:22-67
+uses-permission#android.permission.RECEIVE_WAP_PUSH
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:58:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:58:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:59:5-71
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:59:22-68
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:60:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:60:22-69
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:61:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:61:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:62:5-67
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:62:22-64
+uses-permission#android.permission.SET_TIME_ZONE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:63:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:63:22-69
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:64:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:64:22-69
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:65:5-78
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:65:22-75
+uses-permission#android.permission.SUBSCRIBED_FEEDS_READ
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:66:5-80
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:66:22-77
+uses-permission#android.permission.SUBSCRIBED_FEEDS_WRITE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:67:5-81
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:67:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:68:5-78
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:68:22-75
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:69:5-70
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:69:22-67
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:70:5-74
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:70:22-71
+uses-permission#android.permission.USE_SIP
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:71:5-66
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:71:22-63
+uses-permission#android.permission.VIBRATE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:72:5-66
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:72:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:73:5-68
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:73:22-65
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:74:5-73
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:74:22-70
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:75:5-73
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:75:22-70
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:76:5-73
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:76:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:77:5-81
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:77:22-78
+uses-permission#android.permission.WRITE_PROFILE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:78:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:78:22-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:79:5-73
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:79:22-70
+uses-permission#android.permission.WRITE_SMS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:80:5-68
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:80:22-65
+uses-permission#android.permission.WRITE_SOCIAL_STREAM
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:81:5-78
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:81:22-75
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:82:5-78
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:82:22-75
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:83:5-80
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:83:22-77
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:84:5-78
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:84:22-75
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:85:5-93
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:85:22-90
+uses-permission#com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:86:5-94
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:86:22-91
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:87:5-88
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:87:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:88:5-90
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:88:22-87
+uses-permission#com.android.vending.BILLING
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:89:5-67
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:89:22-64
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:90:5-73
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:90:22-70
+uses-permission#com.android.voicemail.permission.ADD_VOICEMAIL
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:91:5-86
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:91:22-83
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:92:5-82
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:92:22-79
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:93:5-94
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:93:22-91
+uses-permission#com.google.android.gms.permission.AD_ID_NOTIFICATION
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:94:5-92
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:94:22-89
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:95:5-92
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:95:22-89
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:96:5-107
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:96:22-104
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:97:5-104
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:97:22-101
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.adsense
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:98:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:98:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.adwords
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:99:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:99:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.ah
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:100:5-95
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:100:22-92
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.android
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:101:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:101:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.androidsecure
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:102:5-106
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:102:22-103
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.blogger
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:103:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:103:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.cl
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:104:5-95
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:104:22-92
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.cp
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:105:5-95
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:105:22-92
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.dodgeball
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:106:5-102
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:106:22-99
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.finance
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:107:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:107:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.gbase
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:108:5-98
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:108:22-95
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.grandcentral
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:109:5-105
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:109:22-102
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.groups2
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:110:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:110:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.health
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:111:5-99
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:111:22-96
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.ig
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:112:5-95
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:112:22-92
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.jotspot
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:113:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:113:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.knol
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:114:5-97
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:114:22-94
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.lh2
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:115:5-96
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:115:22-93
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.local
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:116:5-98
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:116:22-95
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.mail
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:117:5-97
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:117:22-94
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.mobile
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:118:5-99
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:118:22-96
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.news
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:119:5-97
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:119:22-94
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.notebook
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:120:5-101
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:120:22-98
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.orkut
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:121:5-98
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:121:22-95
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.print
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:122:5-98
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:122:22-95
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.sierra
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:123:5-99
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:123:22-96
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.sierraqa
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:124:5-101
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:124:22-98
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.sierrasandbox
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:125:5-106
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:125:22-103
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.sitemaps
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:126:5-101
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:126:22-98
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.speech
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:127:5-99
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:127:22-96
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.speechpersonalization
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:128:5-114
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:128:22-111
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.talk
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:129:5-97
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:129:22-94
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.wifi
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:130:5-97
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:130:22-94
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.wise
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:131:5-97
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:131:22-94
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.writely
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:132:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:132:22-97
+uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH.youtube
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:133:5-100
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:133:22-97
+uses-permission#com.google.android.launcher.permission.READ_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:134:5-92
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:134:22-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:135:5-98
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:135:22-95
+uses-permission#com.google.android.providers.talk.permission.READ_ONLY
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:136:5-94
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:136:22-91
+uses-permission#com.google.android.providers.talk.permission.WRITE_ONLY
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:137:5-95
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:137:22-92
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:138:5-84
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:138:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:139:5-68
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:139:22-65
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:140:5-74
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:140:22-71
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:141:5-75
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:141:22-72
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:142:5-79
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:142:22-76
+uses-permission#android.permission.BATTERY_STATS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:143:5-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:143:22-69
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:144:5-82
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:144:22-79
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:145:5-85
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:145:22-82
+uses-permission#com.android.launcher.permission.WRITE_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:146:5-86
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:146:22-83
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:147:5-81
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:147:22-78
+uses-permission#com.qihoo.appstore.rtservice.ACCESS_RTSERVICE
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:148:5-85
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:148:22-82
+uses-permission#android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:149:5-90
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:149:22-87
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:150:5-85
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:150:22-82
+uses-feature#android.hardware.camera
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:152:5-60
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:152:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:153:5-155:36
+	android:required
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:155:9-33
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:154:9-57
+service#com.morgoo.droidplugin.PluginManagerService
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:160:9-162:75
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:162:13-72
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:161:13-71
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$Standard00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:168:9-187:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:176:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:174:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:171:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:173:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:175:13-42
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:172:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:170:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:177:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:169:13-83
+intent-filter#android.intent.action.MAIN+com.morgoo.droidplugin.category.PROXY_STUB
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:178:13-182:29
+category#com.morgoo.droidplugin.category.PROXY_STUB
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:181:17-87
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:181:27-84
+meta-data#com.morgoo.droidplugin.ACTIVITY_STUB_INDEX
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:184:13-186:37
+	android:value
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:186:17-34
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:185:17-74
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleInstance00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:188:9-207:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:196:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:194:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:191:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:193:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:195:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:192:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:190:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:197:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:189:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleInstance01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:208:9-227:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:216:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:214:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:211:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:213:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:215:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:212:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:210:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:217:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:209:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleInstance02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:228:9-247:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:236:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:234:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:231:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:233:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:235:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:232:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:230:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:237:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:229:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleInstance03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:248:9-267:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:256:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:254:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:251:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:253:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:255:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:252:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:250:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:257:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:249:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTask00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:268:9-287:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:276:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:274:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:271:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:273:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:275:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:272:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:270:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:277:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:269:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTask01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:288:9-307:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:296:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:294:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:291:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:293:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:295:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:292:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:290:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:297:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:289:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTask02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:308:9-327:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:316:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:314:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:311:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:313:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:315:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:312:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:310:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:317:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:309:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTask03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:328:9-347:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:336:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:334:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:331:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:333:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:335:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:332:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:330:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:337:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:329:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTop00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:348:9-367:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:356:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:354:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:351:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:353:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:355:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:352:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:350:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:357:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:349:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTop01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:368:9-387:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:376:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:374:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:371:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:373:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:375:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:372:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:370:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:377:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:369:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTop02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:388:9-407:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:396:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:394:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:391:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:393:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:395:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:392:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:390:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:397:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:389:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P01$SingleTop03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:408:9-427:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:416:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:414:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:411:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:413:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:415:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:412:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:410:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:417:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:409:13-84
+provider#com.morgoo.droidplugin.stub.ContentProviderStub$StubP01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:429:9-434:44
+	android:authorities
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:431:13-66
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:434:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:433:13-54
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:432:13-37
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:430:13-83
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$Standard00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:437:9-456:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:445:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:443:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:440:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:442:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:444:13-42
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:441:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:439:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:446:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:438:13-83
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleInstance00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:457:9-476:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:465:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:463:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:460:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:462:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:464:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:461:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:459:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:466:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:458:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleInstance01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:477:9-496:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:485:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:483:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:480:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:482:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:484:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:481:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:479:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:486:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:478:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleInstance02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:497:9-516:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:505:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:503:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:500:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:502:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:504:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:501:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:499:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:506:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:498:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleInstance03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:517:9-536:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:525:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:523:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:520:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:522:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:524:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:521:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:519:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:526:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:518:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTask00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:537:9-556:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:545:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:543:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:540:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:542:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:544:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:541:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:539:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:546:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:538:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTask01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:557:9-576:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:565:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:563:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:560:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:562:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:564:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:561:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:559:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:566:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:558:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTask02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:577:9-596:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:585:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:583:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:580:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:582:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:584:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:581:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:579:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:586:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:578:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTask03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:597:9-616:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:605:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:603:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:600:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:602:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:604:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:601:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:599:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:606:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:598:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTop00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:617:9-636:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:625:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:623:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:620:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:622:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:624:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:621:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:619:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:626:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:618:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTop01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:637:9-656:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:645:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:643:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:640:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:642:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:644:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:641:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:639:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:646:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:638:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTop02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:657:9-676:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:665:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:663:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:660:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:662:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:664:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:661:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:659:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:666:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:658:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P02$SingleTop03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:677:9-696:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:685:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:683:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:680:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:682:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:684:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:681:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:679:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:686:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:678:13-84
+provider#com.morgoo.droidplugin.stub.ContentProviderStub$StubP02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:698:9-703:44
+	android:authorities
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:700:13-66
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:703:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:702:13-54
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:701:13-37
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:699:13-83
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$Standard00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:706:9-725:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:714:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:712:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:709:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:711:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:713:13-42
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:710:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:708:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:715:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:707:13-83
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleInstance00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:726:9-745:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:734:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:732:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:729:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:731:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:733:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:730:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:728:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:735:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:727:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleInstance01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:746:9-765:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:754:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:752:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:749:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:751:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:753:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:750:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:748:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:755:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:747:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleInstance02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:766:9-785:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:774:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:772:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:769:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:771:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:773:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:770:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:768:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:775:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:767:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleInstance03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:786:9-805:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:794:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:792:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:789:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:791:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:793:13-48
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:790:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:788:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:795:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:787:13-89
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTask00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:806:9-825:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:814:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:812:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:809:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:811:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:813:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:810:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:808:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:815:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:807:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTask01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:826:9-845:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:834:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:832:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:829:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:831:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:833:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:830:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:828:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:835:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:827:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTask02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:846:9-865:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:854:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:852:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:849:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:851:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:853:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:850:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:848:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:855:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:847:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTask03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:866:9-885:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:874:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:872:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:869:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:871:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:873:13-44
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:870:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:868:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:875:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:867:13-85
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTop00
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:886:9-905:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:894:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:892:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:889:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:891:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:893:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:890:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:888:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:895:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:887:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTop01
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:906:9-925:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:914:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:912:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:909:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:911:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:913:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:910:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:908:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:915:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:907:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTop02
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:926:9-945:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:934:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:932:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:929:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:931:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:933:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:930:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:928:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:935:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:927:13-84
+activity#com.morgoo.droidplugin.stub.ActivityMode$P03$SingleTop03
+ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:946:9-965:20
+	android:process
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:954:13-41
+	android:label
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:952:13-55
+	android:excludeFromRecents
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:949:13-46
+	android:hardwareAccelerated
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:951:13-47
+	android:launchMode
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:953:13-43
+	android:exported
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:950:13-37
+	android:allowTaskReparenting
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:948:13-48
+	android:theme
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:955:13-52
+	android:name
+		ADDED from [DroidPlugin.Libraries:DroidPlugin:unspecified] /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/bin/intermediates/exploded-aar/DroidPlugin.Libraries/DroidPlugin/unspecified/AndroidManifest.xml:947:13-84
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:2:1-39:12 reason: com.morgoo.droidplugin requested WRITE_EXTERNAL_STORAGE
+android:uses-permission#android.permission.READ_CALL_LOG
+IMPLIED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:2:1-39:12 reason: com.morgoo.droidplugin has targetSdkVersion < 16 and requested READ_CONTACTS
+android:uses-permission#android.permission.WRITE_CALL_LOG
+IMPLIED from /Users/mac/Android/AndroidStudioProject/Test/DroidPluginDemo/TestPlugin/AndroidManifest.xml:2:1-39:12 reason: com.morgoo.droidplugin has targetSdkVersion < 16 and requested WRITE_CONTACTS
